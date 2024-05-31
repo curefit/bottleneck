@@ -1,8 +1,8 @@
 {
-  "name": "bottleneck",
+  "name": "@curefit/bottleneck",
   "main": "bottleneck.js",
-  "version": "2.19.5",
-  "homepage": "https://github.com/SGrondin/bottleneck",
+  "version": "3.0.1",
+  "homepage": "https://github.com/curefit/bottleneck",
   "authors": [
     "SGrondin <github@simongrondin.name>"
   ],

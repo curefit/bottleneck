@@ -1,4 +1,4 @@
-declare module "bottleneck" {
+declare module "@curefit/bottleneck" {
     namespace Bottleneck {
     type ConstructorOptions = {
         /**
