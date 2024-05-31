@@ -48,7 +48,7 @@ npm install --save bottleneck
 ```
 
 ```js
-import Bottleneck from "bottleneck";
+import Bottleneck from "@curefit/bottleneck";
 
 // Note: To support older browsers and Node <6.0, you must import the ES5 bundle instead.
 var Bottleneck = require("bottleneck/es5");
